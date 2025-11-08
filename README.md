@@ -95,25 +95,21 @@ Analyzes customer satisfaction and identifies service improvement areas.
 
 ## 🖼️ **Dashboard Snapshots**
 
-**1. 🧭 Overview Page** 
-([./Screenshot1.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png))
+### 🧭 Overview Page  
+![Overview Dashboard](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png)
 
+### 🚘 Vehicle Type Page  
+![Vehicle Type Dashboard](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Vehicle%20Type%20page.png)
 
- ** 2.🚘 **Vehicle Type Page** 
- ([./Screenshot2.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Vehicle%20Type%20page.png)) 
+### 💰 Revenue Page  
+![Revenue Dashboard](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Revenue%20page.png)
 
- 
-** 3.💰 Revenue Page** 
-(./[Screenshot3.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Revenue%20page.png)) 
+### ❌ Cancellation Page  
+![Cancellation Dashboard](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Cancellation%20Page.png)
 
+### ⭐ Ratings Page  
+![Ratings Dashboard](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Customer%20Rating%20Page.png)
 
-** 4.❌ Cancellation Page** 
-(./[Screenshot4.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Cancellation%20Page.png))
-
-
-
-** 5.⭐ Ratings Page** 
-(./[Screenshot5.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Customer%20Rating%20Page.png)) 
 
 ---
 
