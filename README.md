@@ -95,8 +95,6 @@ Analyzes customer satisfaction and identifies service improvement areas.
 
 ## 🖼️ **Dashboard Snapshots**
 
-![Overview Dashboard](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/View%20dashboard%20Image%20.pdf)
-
 ### 🧭 Overview Page  
 ![Overview Dashboard](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png)
 
