@@ -7,7 +7,7 @@
 
 <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow?style=for-the-badge&logo=powerbi">
 <img src="https://img.shields.io/badge/Data%20Source-Excel%20|%20CSV-green?style=for-the-badge&logo=microsoft-excel">
-<img src="https://img.shields.io/badge/Language-DAX%20|%20Power%20Query-lightgrey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Language-DAX%20|%20Power%20Query-White?style=for-the-badge">
 
 </div>
 
@@ -95,13 +95,25 @@ Analyzes customer satisfaction and identifies service improvement areas.
 
 ## 🖼️ **Dashboard Snapshots**
 
-| Page | Preview |
-|------|----------|
-| 🧭 **Overview Page** | ![Overview Screenshot](./Screenshot1.png) |
-| 🚘 **Vehicle Type Page** | ![Vehicle Type Screenshot](./Screenshot2.png) |
-| 💰 **Revenue Page** | ![Revenue Screenshot](./Screenshot3.png) |
-| ❌ **Cancellation Page** | ![Cancellation Screenshot](./Screenshot4.png) |
-| ⭐ **Ratings Page** | ![Ratings Screenshot](./Screenshot5.png) |
+**1. 🧭 Overview Page** 
+([./Screenshot1.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/OverView%20Page.png))
+
+
+ ** 2.🚘 **Vehicle Type Page** 
+ ([./Screenshot2.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Vehicle%20Type%20page.png)) 
+
+ 
+** 3.💰 Revenue Page** 
+(./[Screenshot3.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Revenue%20page.png)) 
+
+
+** 4.❌ Cancellation Page** 
+(./[Screenshot4.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Cancellation%20Page.png))
+
+
+
+** 5.⭐ Ratings Page** 
+(./[Screenshot5.png](https://github.com/mueez-mapari2005/Uber-Performance-Dashboard-for-Ride-and-Customer-Analysis/blob/main/Customer%20Rating%20Page.png)) 
 
 ---
 
